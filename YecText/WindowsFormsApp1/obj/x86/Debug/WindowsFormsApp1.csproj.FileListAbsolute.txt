@@ -1,0 +1,11 @@
+H:\C# Windows Programs\WindowsFormsApp1\WindowsFormsApp1\bin\x86\Debug\WindowsFormsApp1.exe.config
+H:\C# Windows Programs\WindowsFormsApp1\WindowsFormsApp1\bin\x86\Debug\WindowsFormsApp1.exe
+H:\C# Windows Programs\WindowsFormsApp1\WindowsFormsApp1\bin\x86\Debug\WindowsFormsApp1.pdb
+H:\C# Windows Programs\WindowsFormsApp1\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.Form1.resources
+H:\C# Windows Programs\WindowsFormsApp1\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.Form2.resources
+H:\C# Windows Programs\WindowsFormsApp1\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.Form3.resources
+H:\C# Windows Programs\WindowsFormsApp1\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.Properties.Resources.resources
+H:\C# Windows Programs\WindowsFormsApp1\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+H:\C# Windows Programs\WindowsFormsApp1\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+H:\C# Windows Programs\WindowsFormsApp1\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.exe
+H:\C# Windows Programs\WindowsFormsApp1\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.pdb

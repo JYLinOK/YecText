@@ -1,0 +1,263 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="richTextBox1.Text" xml:space="preserve">
+    <value>1.	SM_CYICON,               TEXT("SM_CYICON"),
+2.	TEXT("Icon height"),
+3.	SM_CXCURSOR,             TEXT("SM_CXCURSOR"),
+4.	TEXT("Cursor width"),
+5.	SM_CYCURSOR,             TEXT("SM_CYCURSOR"),
+6.	TEXT("Cursor height"),
+7.	SM_CYMENU,               TEXT("SM_CYMENU"),
+8.	TEXT("Menu bar height"),
+9.	SM_CXFULLSCREEN,         TEXT("SM_CXFULLSCREEN"),
+10.	TEXT("Full screen client area width"),
+11.	SM_CYFULLSCREEN,         TEXT("SM_CYFULLSCREEN"),
+12.	TEXT("Full screen client area height"),
+13.	SM_CYKANJIWINDOW,        TEXT("SM_CYKANJIWINDOW"),
+14.	TEXT("Kanji window height"),
+15.	SM_MOUSEPRESENT,         TEXT("SM_MOUSEPRESENT"),
+16.	TEXT("Mouse present flag"),
+17.	SM_CYVSCROLL,            TEXT("SM_CYVSCROLL"),
+18.	TEXT("Vertical scroll arrow height"),
+19.	SM_CXHSCROLL,            TEXT("SM_CXHSCROLL"),
+20.	TEXT("Horizontal scroll arrow width"),
+21.	SM_DEBUG,                TEXT("SM_DEBUG"),
+22.	TEXT("Debug version flag"),
+23.	SM_SWAPBUTTON,           TEXT("SM_SWAPBUTTON"),
+24.	TEXT("Mouse buttons swapped flag"),
+25.	SM_CXMIN,                TEXT("SM_CXMIN"),
+26.	TEXT("Minimum window width"),
+27.	SM_CYMIN,                TEXT("SM_CYMIN"),
+28.	TEXT("Minimum window height"),
+29.	SM_CXSIZE,               TEXT("SM_CXSIZE"),
+30.	TEXT("Min/Max/Close button width"),
+31.	SM_CYSIZE,               TEXT("SM_CYSIZE"),
+32.	TEXT("Min/Max/Close button height"),
+33.	SM_CXSIZEFRAME,          TEXT("SM_CXSIZEFRAME"),
+34.	TEXT("Window sizing frame width"),
+35.	SM_CYSIZEFRAME,          TEXT("SM_CYSIZEFRAME"),
+36.	TEXT("Window sizing frame height"),
+37.	SM_CXMINTRACK,           TEXT("SM_CXMINTRACK"),
+38.	TEXT("Minimum window tracking width"),
+39.	SM_CYMINTRACK,           TEXT("SM_CYMINTRACK"),
+40.	TEXT("Minimum window tracking height"),
+41.	SM_CXDOUBLECLK,          TEXT("SM_CXDOUBLECLK"),
+42.	TEXT("Double click x tolerance"),
+43.	SM_CYDOUBLECLK,          TEXT("SM_CYDOUBLECLK"),
+44.	TEXT("Double click y tolerance"),
+45.	SM_CXICONSPACING,        TEXT("SM_CXICONSPACING"),
+46.	TEXT("Horizontal icon spacing"),
+47.	SM_CYICONSPACING,        TEXT("SM_CYICONSPACING"),
+48.	TEXT("Vertical icon spacing"),
+49.	SM_MENUDROPALIGNMENT,    TEXT("SM_MENUDROPALIGNMENT"),
+50.	TEXT("Left or right menu drop"),
+51.	SM_PENWINDOWS,           TEXT("SM_PENWINDOWS"),
+52.	TEXT("Pen extensions installed"),
+53.	SM_DBCSENABLED,          TEXT("SM_DBCSENABLED"),
+54.	TEXT("Double-Byte Char Set enabled"),
+55.	SM_CMOUSEBUTTONS,        TEXT("SM_CMOUSEBUTTONS"),
+56.	TEXT("Number of mouse buttons"),
+57.	SM_SECURE,               TEXT("SM_SECURE"),
+58.	TEXT("Security present flag"),
+59.	SM_CXEDGE,               TEXT("SM_CXEDGE"),
+60.	TEXT("3-D border width"),
+61.	SM_CYEDGE,               TEXT("SM_CYEDGE"),
+62.	TEXT("3-D border height"),
+63.	SM_CXMINSPACING,         TEXT("SM_CXMINSPACING"),
+64.	TEXT("Minimized window spacing width"),
+65.	SM_CYMINSPACING,         TEXT("SM_CYMINSPACING"),
+66.	TEXT("Minimized window spacing height"),
+67.	SM_CXSMICON,             TEXT("SM_CXSMICON"),
+68.	TEXT("Small icon width"),
+69.	SM_CYSMICON,             TEXT("SM_CYSMICON"),
+70.	TEXT("Small icon height"),
+71.	SM_CYSMCAPTION,          TEXT("SM_CYSMCAPTION"),
+72.	TEXT("Small caption height"),
+73.	SM_CXSMSIZE,             TEXT("SM_CXSMSIZE"),
+74.	TEXT("Small caption button width"),
+75.	SM_CYSMSIZE,             TEXT("SM_CYSMSIZE"),
+76.	TEXT("Small caption button height"),
+77.	SM_CXMENUSIZE,           TEXT("SM_CXMENUSIZE"),
+78.	TEXT("Menu bar button width"),
+79.	SM_CYMENUSIZE,           TEXT("SM_CYMENUSIZE"),
+80.	TEXT("Menu bar button height"),
+81.	SM_ARRANGE,              TEXT("SM_ARRANGE"),
+82.	TEXT("How minimized windows arranged"),
+83.	SM_CXMINIMIZED,          TEXT("SM_CXMINIMIZED"),
+84.	TEXT("Minimized window width"),
+85.	SM_CYMINIMIZED,          TEXT("SM_CYMINIMIZED"),
+86.	TEXT("Minimized window height"),
+87.	SM_CXMAXTRACK,           TEXT("SM_CXMAXTRACK"),
+88.	TEXT("Maximum draggable width"),
+89.	SM_CYMAXTRACK,           TEXT("SM_CYMAXTRACK"),
+90.	TEXT("Maximum draggable height"),
+91.	SM_CXMAXIMIZED,          TEXT("SM_CXMAXIMIZED"),
+92.	TEXT("Width of maximized window"),
+93.	SM_CYMAXIMIZED,          TEXT("SM_CYMAXIMIZED"),
+94.	TEXT("Height of maximized window"),
+95.	SM_NETWORK,              TEXT("SM_NETWORK"),
+96.	TEXT("Network present flag"),
+97.	SM_CLEANBOOT,            TEXT("SM_CLEANBOOT"),
+98.	TEXT("How system was booted"),
+99.	SM_CXDRAG,               TEXT("SM_CXDRAG"),
+100.	TEXT("Avoid drag x tolerance"),
+101.	SM_CYDRAG,               TEXT("SM_CYDRAG"),
+102.	TEXT("Avoid drag y tolerance"),
+103.	SM_SHOWSOUNDS,           TEXT("SM_SHOWSOUNDS"),
+104.	TEXT("Present sounds visually"),
+105.	SM_CXMENUCHECK,          TEXT("SM_CXMENUCHECK"),
+106.	TEXT("Menu check-mark width"),
+107.	SM_CYMENUCHECK,          TEXT("SM_CYMENUCHECK"),
+108.	TEXT("Menu check-mark height"),
+109.	SM_SLOWMACHINE,          TEXT("SM_SLOWMACHINE"),
+110.	TEXT("Slow processor flag"),
+111.	SM_MIDEASTENABLED,       TEXT("SM_MIDEASTENABLED"),
+112.	TEXT("Hebrew and Arabic enabled flag"),
+113.	SM_MOUSEWHEELPRESENT,    TEXT("SM_MOUSEWHEELPRESENT"),
+114.	TEXT("Mouse wheel present flag"),
+115.	SM_XVIRTUALSCREEN,       TEXT("SM_XVIRTUALSCREEN"),
+116.	TEXT("Virtual screen x origin"),
+117.	SM_YVIRTUALSCREEN,       TEXT("SM_YVIRTUALSCREEN"),
+118.	TEXT("Virtual screen y origin"),
+119.	SM_CXVIRTUALSCREEN,      TEXT("SM_CXVIRTUALSCREEN"),
+120.	TEXT("Virtual screen width"),
+121.	SM_CYVIRTUALSCREEN,      TEXT("SM_CYVIRTUALSCREEN"),
+122.	TEXT("Virtual screen height"),
+123.	SM_CMONITORS,            TEXT("SM_CMONITORS"),
+124.	TEXT("Number of monitors"),
+125.	SM_SAMEDISPLAYFORMAT,    TEXT("SM_SAMEDISPLAYFORMAT"),
+126.	TEXT("Same color format flag")</value>
+  </data>
+  <metadata name="fontDialog1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <metadata name="openFileDialog1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>161, 17</value>
+  </metadata>
+  <metadata name="colorDialog1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>356, 19</value>
+  </metadata>
+  <metadata name="timer1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>661, 17</value>
+  </metadata>
+  <metadata name="timer2.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>766, 17</value>
+  </metadata>
+</root>
